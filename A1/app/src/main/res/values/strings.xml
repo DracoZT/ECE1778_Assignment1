@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="label">No Clicks Yet</string>
+    <string name="btnclick">Register a Click</string>
+    <string name="btntoggle">Toggle Image</string>
+    <string name="MenuReset">Reset</string>
+    <string name="clickedTimes">Clicked %d times.</string>
+</resources>
